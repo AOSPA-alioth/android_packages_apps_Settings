@@ -244,7 +244,11 @@
     <string name="volume_separate_notification_summary">Allow controlling each stream individually</string>
 
     <!-- PA maintainer -->
-    <string name="maintainer">Maintainer</string>
+    <string name="maintainer">Who to blame (Maintainer)</string>
     <string name="aospa_maintainer" translatable="false">XISAN</string>
+
+    <!-- Game Space -->
+    <string name="game_space_title">Game Space</string>
+    <string name="game_space_summary">Enhance your gaming experience</string>
 
 </resources>
