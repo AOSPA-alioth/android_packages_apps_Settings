@@ -243,6 +243,11 @@
         <item quantity="one">Up to <xliff:g id="device_num">%1$d</xliff:g> device can connect to this hotspot</item>
     </plurals>
 
+    <!-- Per-app volume control -->
+    <string name="app_volume">App volume</string>
+    <string name="app_volume_title">Per-app volume control</string>
+    <string name="app_volume_summary">Allow to set different volume levels for each app</string>
+
     <!-- Heads up -->
     <string name="heads_up_title">Heads up</string>
     <string name="heads_up_summary">Show select notifications as a banner across the top of the screen</string>
