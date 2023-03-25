@@ -5967,4 +5967,19 @@
     <string name="find_broadcast_password_dialog_password_error" msgid="243855327674765">"Falsches Passwort"</string>
     <string name="bt_le_audio_scan_qr_code_scanner" msgid="7614569515419813053">"Scanne zum Anhören den QR-Code unten"</string>
     <string name="bt_le_audio_qr_code_is_not_valid_format" msgid="7821837654128137901">"Das Format des QR-Codes ist ungültig"</string>
+
+    <!-- Network traffic -->
+    <string name="network_traffic_intro_text">
+        Ein Monitor zeigt die aktuelle Geschwindigkeit des Netzwerkverkehrs
+        in der Statusleiste an. Die Geschwindigkeit wird dynamisch angezeigt,
+        sodass jede Sekunde zwischen Upload- und Download-Geschwindigkeit
+        gewechselt wird.
+    </string>
+    <string name="network_traffic_title">Netzwerk-Monitor</string>
+    <string name="network_traffic_summary">Netzwerk-Monitor in der Statusleiste ein- oder ausblenden</string>
+    <string name="network_traffic_main_switch_title">Netzwerkmonitor aktivieren</string>
+    <string name="network_options_title">Optionen</string>
+    <string name="network_traffic_autohide_title">Netzwerkmonitor ausblenden, wenn inaktiv</string>
+    <string name="network_traffic_autohide_summary">Ausblenden, wenn die Netzwerkaktivität unter 1 KB/s liegt</string>
+
 </resources>
