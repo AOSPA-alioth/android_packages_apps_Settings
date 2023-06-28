@@ -193,6 +193,7 @@
     <string name="tethering_allow_vpn_upstreams_title">Allow clients to use VPNs</string>
     <string name="tethering_allow_vpn_upstreams_summary">Permit hotspot clients to use this device\u2019s VPN connections for upstream connectivity</string>
 
+<<<<<<< HEAD
     <!-- Hotspot -->
     <string name="wifi_hotspot_hidden_ssid_title">Hidden network</string>
     <string name="wifi_hotspot_hidden_ssid_summary">Hide the hotspot name in the list of available Wi-Fi networks</string>
@@ -241,5 +242,9 @@
     <!-- Separate ring & notification toggle -->
     <string name="volume_separate_notification_title">Separated Ring and Notification</string>
     <string name="volume_separate_notification_summary">Allow controlling each stream individually</string>
+
+    <!-- PA maintainer -->
+    <string name="maintainer">Maintainer</string>
+    <string name="aospa_maintainer" translatable="false">XISAN</string>
 
 </resources>
