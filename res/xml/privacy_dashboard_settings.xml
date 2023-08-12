@@ -160,4 +160,10 @@
         android:summary="@string/show_clip_access_notification_summary"
         settings:controller="com.android.settings.privacy.ShowClipAccessNotificationPreferenceController"/>
 
+   <co.aospa.framework.preference.SecureSettingSwitchPreference
+        android:key="games_device_spoof"
+        android:title="@string/games_device_spoof_title"
+        android:summary="@string/games_device_spoof_summary"
+        android:defaultValue="false"/>
+
 </PreferenceScreen>

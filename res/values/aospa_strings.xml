@@ -276,4 +276,8 @@
     <string name="power_menu_hide_on_secure_title">Disable power menu on lock screen</string>
     <string name="power_menu_hide_on_secure_summary">This will only disable the power menu on secure lockscreen</string>
 
+    <!-- GamesPropsUtils -->
+    <string name="games_device_spoof_title">Unlock higher FPS in games</string>
+    <string name="games_device_spoof_summary">Spoof device as a high-end model in certain games, to unlock higher FPS</string>
+
 </resources>
