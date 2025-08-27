@@ -305,7 +305,7 @@
     <string name="lockscreen_enable_power_menu_summary">Allow accessing power menu on secure lockscreen</string>
 
     <!-- PA maintainer -->
-    <string name="maintainer">Maintainer</string>
+    <string name="maintainer">Who to blame (Maintainer)</string>
     <string name="aospa_maintainer" translatable="false">XISAN</string>
 
 
